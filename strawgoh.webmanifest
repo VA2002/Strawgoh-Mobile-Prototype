@@ -1,0 +1,17 @@
+{
+    "name": "Strawgoh | After School Classes Portal",
+    "origin": "*",
+    "short_name": "Strawgoh AS",
+    "methods":"GET,HEAD,PUT,PATCH,POST,DELETE",
+    "description": "After School Lessons Shop",
+    "icons": [
+        {
+            "src": "images/applogo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "rgb(42, 70, 121)"
+}
