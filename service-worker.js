@@ -1,4 +1,4 @@
-var cacheName = 'petstore-v1';
+var cacheName = 'strawgoh';
 var cacheFiles = [
     'index.html',
     'lessons.js',
